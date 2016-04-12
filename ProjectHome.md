@@ -1,0 +1,1 @@
+This project is focused on creating a free online operating system aptly named: InterOS (<b>Inter</b>net <b>O</b>perating <b>S</b>ystem)that can be ported to many uses and personal projects.
